@@ -15,3 +15,5 @@ wheels/
 .env.production
 src/.env
 .env
+backend/src/.env
+.env
